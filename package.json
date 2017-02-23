@@ -1,0 +1,23 @@
+{
+  "name": "hand-carousel",
+  "version": "1.0.0",
+  "description": "Momentum scrolling for all!",
+  "main": "handCarousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranzSkuffka/HandCarousel.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranzSkuffka/HandCarousel.js/issues"
+  },
+  "homepage": "https://github.com/FranzSkuffka/HandCarousel.js#readme",
+  "dependencies": {
+    "handjs": "^1.3.11",
+    "jquery": "1"
+  }
+}
